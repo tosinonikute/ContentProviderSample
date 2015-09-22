@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/splashxml"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:background="?attr/colorPrimaryDark">
+
+
+    <ImageView
+        android:id="@+id/moviebigimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="8dp"
+        android:paddingTop="40dp"
+        android:src="@drawable/sampleapp"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>
+
+
+

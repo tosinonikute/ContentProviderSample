@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigate">Navigate</string>
+    <string name="title_activity_online_detail">OnlineDetailActivity</string>
+    <string name="title_activity_sync">SyncActivity</string>
+</resources>
